@@ -1,0 +1,489 @@
+@media  screen and (max-width: 1024px) and (min-width: 769px){
+    .navbar ul{
+     display: block;
+   /* background-color: bisque; */
+    }
+    .part2{
+      text-align: left;
+    }
+
+    #aboutus{
+      height: 500px;
+      /* display: block; */
+    }
+    #aboutus img{
+      height: 300px;
+      margin-left: 26px;   
+       width: 350px;
+       margin-top: 150px;
+       border-radius: 50%;
+   } 
+   .part4{
+    margin-left: 10px;
+    /* margin-top: 100px; */
+    height: 570px;
+   }
+   .part4 h1{
+    font-weight: 600;
+        font-size: 40px;
+ }  
+#aboutus2{
+  height: 390px;
+  /* display: block; */
+}
+ #aboutus2 img{
+  position: relative;
+  height: 300px;
+  margin-left: 445px;   
+  /* margin-left: 120vh; */
+   width: 330px;
+   margin-top: -370px;
+   border-radius: 50%;
+} 
+.part5{
+  margin-left: 10px;
+  width: 415px;
+  margin-top: -60px;
+}
+.part5 h1{
+  font-weight: 600;
+      font-size: 40px;
+}
+
+.part6 h1{
+  font-size: 40px;
+}
+}
+
+ @media  screen and (max-width: 970px) and (min-width: 769px){
+    #category{
+  /* display: block; */
+      height: 1815px;
+      
+    } 
+  } 
+
+
+
+/******** middle */
+  @media  screen and (max-width: 768px) and (min-width: 426px){
+    #home{
+     display: block;
+     height: 500px;
+    }
+    .navbar ul{ display: block;
+      /* background-color: rgb(89, 104, 235); */
+    }
+    .navbar li{
+      padding: 17px;
+    }
+    .container{
+    font-size: 26px;
+    }
+    .part2{
+      text-align: left;
+    }
+
+    #aboutus{
+      height: 350px;
+      /* display: block; */
+      /* background-color: aquamarine; */
+      display: flex;
+ justify-content: center;
+    }
+   #aboutus img{
+    display: none;
+ } 
+   .part4{ 
+ /* display: none; */
+    margin-left: 0px;
+    /* margin-top: 30px; */
+    width: 100%;
+    /* background-color: brown; */
+   }
+   .part4 h1{
+    font-weight: 600;
+        font-size: 50px;
+ }  
+ .part4 p{
+  font-size: 15px;
+}
+ .part4 h3{
+  font-size: 30px;
+ }
+ .part4 input{
+  margin-top: 10px;
+ }
+#aboutus2{
+  height: 370px;
+  /* display: block; */
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: center;
+}
+#aboutus2 img{
+ display: none;
+  
+} 
+.part5{
+  /* background-color: brown; */
+  margin-left: 0px;
+  width: 100%;
+  margin-top: 40px;
+  z-index: 3;
+}
+.part5 h1{
+  font-weight: 600;
+      font-size: 50px;
+}
+.part5 p{
+  font-size: 15px;
+}
+.part5 h3{
+  font-size: 30px ;
+}
+.part6 h1{
+  font-size: 35px;
+}
+.card{
+  margin-left: 0px;
+}
+  }
+
+  @media  screen and (max-width: 768px) and (min-width: 646px){
+    #category{
+  /* display: block; */
+  /* background-color: black; */
+      height: 1830px;
+      
+    } 
+  } 
+
+  @media  screen and (max-width: 645px) and (min-width: 426px){
+    #category{
+  /* background-color: black; */
+      height: 800px;
+      
+    } 
+    #aboutus{
+      height: 400px;
+    }
+    .part2{
+      width: 400px;
+    }
+    .part2 h1{
+      font-weight: 8000;
+        font-size: 50px;
+    }
+    .part2 h3{
+      font-size: 20px;
+    }
+    .part2 p{
+      font-size: 15px;
+    }
+    .part7 img{
+      height: 100px;
+      width: 150px;
+      transition: all 0.5s ease-in-out;
+   }
+   .navbar li { 
+    font-size: 15px;
+    color: black;
+        margin-left: 0px;
+float: left;
+list-style: none;   
+padding: 15px ;
+}
+#delivery{
+  /* background-color: black; */
+  height: 920px;
+}
+.part13 input{
+  height: 40px;
+  width: 270px;
+}
+.part13 button{
+  margin-left: 10px;
+  height: 40px;
+  width: 70px;
+ }
+ .part13 h1{
+  font-weight: 500;
+  font-size: 48px;
+ }
+/* .part13 input{
+  height: 40px;        
+  width: 400px;
+} */
+  } 
+ 
+  @media  screen and (max-width: 458px) and (min-width: 426px){
+    #category{
+  /* background-color: black; */
+      height: 920px;
+      }
+      .part6 p{
+        font-size: 13px;
+      }
+      .part13 h1{
+        font-weight: 700;
+        font-size: 40px;
+       }
+       .part13 input{
+        height: 50px;
+        width: 400px;
+      }
+      #reviews{
+        /* background-color: black; */
+        height: 420px;
+      }
+      .navbar li { 
+        font-size: 11px;
+        color: black;
+            margin-left: 0px;
+    float: left;
+    list-style: none;   
+    padding: 15px ;
+    }
+    .card input{
+      font: 15px;
+      padding: 6px;
+    }
+  }
+
+
+
+
+  /******** small */
+  @media  screen and (max-width: 425px) and (min-width: 0px){
+   
+    #home{
+      display: block;
+      height: 420px;
+     }
+     .navbar ul{ display: block;
+       /* background-color: rgb(221, 235, 89); */
+     }
+     .navbar li { 
+      font-size: 12px;
+      color: black;
+          margin-left: 0px;
+    float: left;
+    list-style: none;   
+    padding: 15px ;
+  }
+  .container{
+    font-size: 20px;
+    }
+  .part2 input{
+    font-size: 13px;
+  }
+    .part2{
+      text-align: left;
+      width: 280px;
+      margin-left: 5px;
+    }
+    .part2 h1{
+      font-weight: 1000;
+        font-size: 30px;
+    }
+    .part2 h3{
+      font-size: 17px;
+    }
+    .part2 p{
+      font-size: 10px;
+    }
+
+    #aboutus{
+      height: 400px;
+      /* display: block; */
+      /* background-color: aquamarine; */
+      display: flex;
+ justify-content: center;
+    }
+   #aboutus img{
+    display: none;
+ } 
+   .part4{ 
+ /* display: none; */
+    margin-left: 0px;
+    /* margin-top: 30px; */
+    width: 100%;
+    /* background-color: brown; */
+   }
+   .part4 h1{
+    font-weight: 600;
+        font-size: 50px;
+ }  
+ .part4 p{
+  font-size: 10px;
+}
+ .part4 h3{
+  font-size: 20px;
+ }
+ .part4 input{
+  margin-top: 10px;
+ }
+#aboutus2{
+  height: 370px;
+  /* display: block; */
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: center;
+}
+#aboutus2 img{
+ display: none;
+  
+} 
+.part5{
+  /* background-color: brown; */
+  margin-left: 0px;
+  width: 100%;
+  margin-top: 40px;
+  z-index: 3;
+}
+.part5 h1{
+  font-weight: 600;
+      font-size: 50px;
+}
+.part5 p{
+  font-size: 10px;
+}
+.part5 h3{
+  font-size: 20px ;
+}
+
+#category{
+  /* background-color: black; */
+      height: 640px;
+      }
+      .part6{
+        height: 220px;
+      }
+      .part6 p{
+        font-size: 10px;
+      }
+      .part6 h1{
+        font-size: 25px;
+      }
+      .part6 h2{
+        font-size: 37px;
+      }
+      .part7 img{
+        height: 80px;
+        width: 110px;
+        transition: all 0.5s ease-in-out;
+     }
+     .part7 img:hover{
+      transform: scale(2);
+     }
+     .categorycl input{
+      margin-top: 20px;
+      /* margin-left: 570px; */
+      padding: 10px;
+      border-radius: 40px;
+      font-size: 15px;
+      border: none;
+      color: white;
+      background-color: rgb(15, 223, 15);
+      transition: all 0.5s ease-in-out;
+  }
+  #part10{
+    height: 30px;
+  }
+  .part8 h1{
+    font-weight: 1000;
+    font-size: 43px;
+ }
+ .part8 h2,h3{
+    font-weight: 500;
+    font-size: 20px;
+ }
+ .part9{
+  /* background-color: brown; */
+  display: flex;
+  /* align-items: flex-start; */
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  /* margin-left: 180px; */
+  text-align: center;
+}
+ .card{
+  margin-left: 0px;
+  text-align: center;
+  transition: all 0.5s ease-in-out;
+  height: 270px;
+  width: 80px;
+  font-size: 10px;
+}
+.card h5{
+  font-size: 12px;
+}
+.card input{
+  font-size: 8px;
+  margin-top: 0px;
+  /* margin-top: 50px;  */
+}
+.part11 h3{
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 20px; 
+}
+#delivery{
+  /* background-color: black; */
+  height: 720px;
+}
+#reviews{
+  /* background-color: brown; */
+  height: 400px;
+}
+.part13 h1{
+  font-weight: 500;
+  font-size: 28px;
+ }
+ .part13 input{
+  height: 40px;
+  width: 270px;
+}
+.part13 button{
+  margin-left: 10px;
+  height: 40px;
+  width: 70px;
+ }
+ #last{
+  height: 180px;
+  }
+  .total{
+    padding: 50px;
+    height: 50px;
+    /* background-color: brown; */
+  }
+
+}
+
+
+@media  screen and (max-width: 340px) and (min-width: 0px){
+  #category{
+    /* background-color: black; */
+        height: 780px;
+        }
+        #aboutus2{
+          height: 300px;
+        }
+        .part4 input{
+          font-size: 14px;
+        }
+}
+@media  screen and (max-width: 378px) and (min-width: 0px){
+  #last{
+    height: 220px;
+    }
+    .navbar li { 
+     font-size: 12px;
+         margin-left: -10px;   
+   padding: 12px ;
+ }
+ 
+   
+}
